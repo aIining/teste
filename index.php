@@ -12,7 +12,7 @@ curl_setopt_array($curl, array(
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => 'GET',
     CURLOPT_HTTPHEADER => array(
-        'Authorization: Bearer tokenhere', //settings -> secturity -> api key
+        'whzAtcRrjyZiKXpIYOHRxTgQmOjeupQuFuv2h9BQvMCwRRA0r3ysyPYaGCQeaXVW', //settings -> secturity -> api key
         // 'X-Sellix-Merchant: store name here' //if you have multiple store
 
     ),
